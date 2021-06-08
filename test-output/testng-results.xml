@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-09T01:45:05 IST" name="Default suite" finished-at="2021-06-09T01:45:41 IST" duration-ms="36660">
+  <suite started-at="2021-06-09T01:53:12 IST" name="Default suite" finished-at="2021-06-09T01:53:44 IST" duration-ms="31601">
     <groups>
     </groups>
-    <test started-at="2021-06-09T01:45:05 IST" name="Default test" finished-at="2021-06-09T01:45:41 IST" duration-ms="36660">
+    <test started-at="2021-06-09T01:53:12 IST" name="Default test" finished-at="2021-06-09T01:53:44 IST" duration-ms="31601">
       <class name="com.cyient.royaltest.CruisesTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.cyient.royaltest.CruisesTest@1649b0e6]" started-at="2021-06-09T01:45:05 IST" name="setup" finished-at="2021-06-09T01:45:20 IST" duration-ms="15434" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cyient.royaltest.CruisesTest@1649b0e6]" started-at="2021-06-09T01:53:12 IST" name="setup" finished-at="2021-06-09T01:53:30 IST" duration-ms="17750" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="invalidtest()[pri:2, instance:com.cyient.royaltest.CruisesTest@1649b0e6]" started-at="2021-06-09T01:45:20 IST" name="invalidtest" finished-at="2021-06-09T01:45:39 IST" duration-ms="19211" status="PASS">
+        <test-method signature="invalidtest()[pri:2, instance:com.cyient.royaltest.CruisesTest@1649b0e6]" started-at="2021-06-09T01:53:30 IST" name="invalidtest" finished-at="2021-06-09T01:53:43 IST" duration-ms="12681" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidtest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.cyient.royaltest.CruisesTest@1649b0e6]" started-at="2021-06-09T01:45:40 IST" name="teardown" finished-at="2021-06-09T01:45:41 IST" duration-ms="1810" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.cyient.royaltest.CruisesTest@1649b0e6]" started-at="2021-06-09T01:53:43 IST" name="teardown" finished-at="2021-06-09T01:53:44 IST" duration-ms="1143" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
